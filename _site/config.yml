@@ -1,0 +1,13 @@
+pygments: true
+paginate: 10
+permalink: /:year/:month/:title
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+pygments:    false
+markdown:    maruku
+permalink:   date

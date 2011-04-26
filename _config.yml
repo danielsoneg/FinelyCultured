@@ -1,0 +1,15 @@
+auto: true
+server: true
+server_port: 4001
+pygments: true
+paginate: 10
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+pygments:    false
+markdown:    maruku
+safe:        false
