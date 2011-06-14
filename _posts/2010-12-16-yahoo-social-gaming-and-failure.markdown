@@ -1,0 +1,14 @@
+---
+layout: post
+title: Yahoo, Social Gaming, and Failure
+tags: [technology, business]
+---
+If you're in San Francisco, you may have begun seeing Yahoo's new bus stop additions: They've done what Japan did a decade ago and added touch screens. We're not talking just a little touch screen, either - Yahoo's placed 60+" LCD Screens where an entire full-size ad used to go. This is awesome - the potential here is amazing. We can have huge, zoomable, scrollable route maps, get instant directions and transfer info, see where the next busses are, find out if it's going to rain where we're going, get flash news updates, find restaurants close by, and even add information for tourists. With an easy interface, an internet connection, and some smarts, Yahoo might have done the coolest thing to bus stops in the states since we added busses.
+
+Unfortunately, Yahoo didn't. Yahoo took a 60" touch screen, an Internet connection, and a group of customers who all want to be somewhere else, and put games in front of them. No, that's not a typo. These awesome pieces of interconnected technology are host to just four crappy "social" games.
+
+I'm not even going to touch what games Yahoo decided to put on the bus stop, because it doesn't matter. All you need to know is that the games are absolutely terrible - they're unplayably bad. But that really doesn't matter. You could put World of Duty Modern Warcraft: Black Halo 2 on there and it wouldn't matter: This Is Not A Place For Social Games, period. This isn't just a lapse in judgement - a lapse in judgement would be putting these god-awful games on their homepage. Yahoo bought and paid for the installation of many thousands of dollars worth of equipment around the city to pull off this fiasco. Whoever gave this the green light needs to be placed as far away from shareholder money as possible, preferably with a warning sign nearby.
+
+Now, Yahoo announced they're laying off 700 people and closing down a bunch of their properties. Among them is Delicious, which started as del.icio.us before Yahoo decided the periods were gauche, and so was good interface design, a reasonable API, a responsive website, and just about everything else in the world that made del.icio.us awesome. The reason Delicious failed is Yahoo, pure and simple: the site was great, Yahoo bought it, made it suck, and now they're killing it. It's like buying a prize racing horse, feeding it nothing but cheeseburgers for a year, and then shooting it because it's not winning races anymore.
+
+If the SF bus stop fiasco is any sign of how things are running over in Yahoo-land, I think Delicious might be a mercy killing - At least now the engineers don't have to keep pretending putting a word scramble in a bus stop is a good idea.

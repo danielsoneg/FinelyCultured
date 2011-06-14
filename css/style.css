@@ -249,10 +249,6 @@ article header{
     margin-bottom: 1.5em;
 }
 
-section {
-}
-
-
 h1, h2, h3, h4, h5 {
     font-family: 'QuicksandBook';
     font-weight: normal;
@@ -296,6 +292,16 @@ section h2 {
     font-size: 1.2em;
 }
 
+#elsewhere {
+    font-family: 'QuicksandBook';
+    
+}
+
+#bio a {
+    color: #eef;
+    
+}
+
 #bio {
     font-family: 'QuicksandLight',sans-serif;
     border-radius: 5px;
@@ -311,10 +317,15 @@ section h2 {
 }
 
 #bio img {
-    height: 90px;
-    width: 90px;
+    height: 105px;
+    width: 105px;
     float: left;
     padding-right: 5px;
+}
+
+#bio strong {
+    font-weight: normal;
+    font-family: 'QuicksandBold',sans-serif;
 }
 
 #disqus_thread {

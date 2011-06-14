@@ -1,6 +1,6 @@
 auto: true
-watch: true
-server: true
+watch: false
+server: false
 server_port: 4001
 pygments: true
 paginate: 10

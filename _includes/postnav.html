@@ -1,0 +1,7 @@
+<nav>
+  <ul>
+    <li class='prev' id='{{ page.previous.id }}'>&nbsp; {% if page.previous %}<a href="{{ page.previous.url }}">{{ page.previous.title }}</a> </li>{% endif %}
+    <li class='home'> « <a href='/'>Home</a> » </li>
+    <li class='next' id='{{ page.next.id }}'>&nbsp; {% if page.next %}<a href="{{ page.next.url }}">{{ page.next.title }}</a>
+    {% endif %}</li></ul>
+</nav>
