@@ -9,11 +9,11 @@ tags: [Economics]
 epigraph: Note this is A) extremely simplified and B) not meant to apply universally. As always, all things in moderation.
 
 ---
-With a massive deficit and a crippling recession afoot, I think it's helpful to consider the nature of money. If you've a passing familiarity with the field of economics, much of this will likely be remedial, but I find it useful to refresh every now and again, as money can become a concept rather divorced from itself in the face of heated debate. If you're new to the subject, I hope this will be illuminating.
+With a massive deficit and a crippling recession afoot, I think it's helpful to consider the nature of money. If you've a passing familiarity with the field of economics, much of thiGs will likely be remedial, but I find it useful to refresh every now and again, as money can become a concept rather divorced from itself in the face of heated debate. If you're new to the subject, I hope this will be illuminating.
 
 # What is Money?
 The simple answer is, money is what we make of it. There are some fundamental precepts money must follow, but these are largely driven by perception, even when dealing with 'hard money' such as silver and gold.
-More broadly, Money has three fundamental purposes:
+More broadly, Money has three basic purposes:
 1. A medium of exchange: Money facilitates trades between different parties
 2. A unit of account: Money allows different goods to be valued on a common scale
 3. A store of value: Money allows individuals to enact different halves of a trade at different times.
