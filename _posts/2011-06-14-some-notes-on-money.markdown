@@ -6,7 +6,7 @@ title: Some Notes on Money
 
 tags: [Economics]
 
-epigraph: "All things in moderation."
+epigraph: Note this is A) extremely simplified and B) not meant to apply universally. As always, all things in moderation.
 
 ---
 With a massive deficit and a crippling recession afoot, I think it's helpful to consider the nature of money. If you've a passing familiarity with the field of economics, much of this will likely be remedial, but I find it useful to refresh every now and again, as money can become a concept rather divorced from itself in the face of heated debate. If you're new to the subject, I hope this will be illuminating.
