@@ -5,39 +5,29 @@
 <!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
 <head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">	
 	<title>{{ page.title }} - Finely Cultured</title>
 	<meta name="description" content="Eric Danielson's personal blog, covering tech, economics, and culture.">
-	<meta name="author" content="Eric Danielson">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="shortcut icon" href="/favicon.ico">
-	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-	<link rel="stylesheet" href="/css/style.css?v=2">
-	<script src="js/libs/modernizr-1.7.min.js"></script>
+  {% include head.html %}
 </head>
 <body>
-  <header id="header_primary">
-    <hgroup>
-      <h1>{{ page.title }}</h1>
-    </hgroup>
+  <header id="primary">
+    <h1>FinelyCultured</h1>
+    {% include postnav.html %}
   </header>
-  <section id='article'>
-    {{ page.content }}
-  </section>
-  {% include bio.html %}
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-	<script>!window.jQuery && document.write(unescape('%3Cscript src="js/libs/jquery-1.5.1.min.js"%3E%3C/script%3E'))</script>
-	<script src="js/script.js"></script>
-	<!--[if lt IE 7 ]>
-	<script src="js/libs/dd_belatedpng.js"></script>
-	<script> DD_belatedPNG.fix('img, .png_bg');</script>
-	<![endif]-->
-	<script>
-		var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']]; // Change UA-XXXXX-X to be your site's ID
-		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-		g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-		s.parentNode.insertBefore(g,s)}(document,'script'));
-	</script>
+  <article>
+    <header>
+      <hgroup>
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.date | date: "%B %d, %Y"}}</h2>
+        {% if page.epigraph %}<h4>{{ page.epigraph }}</h4>{% endif %}
+      </hgroup>
+    </header>
+    <section class='hyphenate'>
+      {{ content }}
+    </section>
+    {% include bio.html %}
+    {% include disqus.html %}
+  </article>
+  {% include footer.html %}
 </body>
 </html>
