@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5 {
     color: #48546B;
 }
 
-p {
+p, ol {
     margin-bottom: 1em;
 }
 
