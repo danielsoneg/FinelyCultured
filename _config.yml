@@ -1,4 +1,4 @@
-auto: true
+auto: false
 watch: false
 server: false
 server_port: 4001
